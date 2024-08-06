@@ -304,28 +304,28 @@ body {
 }
 
 .category .container .img1{
-    background: url(/asset/img/ball.jpg);
+    background: url(asset/img/ball.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .category .container .img2{
-    background: url(/asset/img/football-shoes.jpeg);
+    background: url(asset/img/football-shoes.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .category .container .img3{
-    background: url(/asset/img/jersey.jpg);
+    background: url(asset/img/jersey.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .category .container .img4{
-    background: url(/asset/img/socks.jpeg);
+    background: url(asset/img/socks.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
